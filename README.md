@@ -5,9 +5,8 @@ Trabalho prático da disciplina de Programação Orientada a Objetos.
 ## Sobre o Projeto
 Este estudo de caso consiste no núcleo de um sistema de gestão para uma locadora de veículos. O objetivo principal é controlar a frota, gerenciar o status de disponibilidade dos carros em memória e automatizar o processo de locação e devolução, aplicando regras de negócio de descontos e multas de forma autônoma.
 
-Linguagem Escolhida: Go (Golang)
+## Linguagem Escolhida: Go (Golang)
 Como a linguagem Go não adota o paradigma tradicional de Orientação a Objetos (sem o uso de classes estritas e herança via palavra reservada), os conceitos de Herança e Polimorfismo foram implementados utilizando Composição (Struct Embedding) e Interfaces.
-
 
 ## Atendimento aos Requisito
 O sistema atende a as seguintes exigências propostas para o estudo de caso:
