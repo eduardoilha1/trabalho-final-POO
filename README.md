@@ -22,11 +22,8 @@ O sistema atende a as seguintes exigências propostas para o estudo de caso:
   2. Regra de Multa e Liberação: Processo de devolução com aplicação de multa punitiva (dobro da diária base) por dia de atraso, e liberação automática do status de disponibilidade do veículo para novos clientes.
 * Fluxo de Execução: Simulação completa em ambiente de console, instanciando, alterando e trocando mensagens entre os objetos em tempo de execução.
 
-## 🏗️ Diagrama de Classes (UML)
+## Diagrama de Classes (UML)
 
 Abaixo está a representação arquitetural do nosso domínio de objetos:
 
 ![Diagrama de Classes](docs/diagrama.png)
-    %% Realização de Interface
-    Imprimivel <|.. Pessoa
-    Imprimivel <|.. Cliente
